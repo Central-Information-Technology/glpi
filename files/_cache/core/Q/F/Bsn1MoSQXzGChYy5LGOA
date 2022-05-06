@@ -1,0 +1,85 @@
+1651799081
+28626bbfe25acce0feef8eabbaf7e8797377323c
+a:1:{s:60:"top_ticket_ITILCategory_0cba0c84-6c62-4cd8-8564-18614498d8e4";s:3934:"      <style>
+         #chart-dashboard_card_assistance_8569398f5f5b4aa81c09ed1974c3e9a305e14aa1 {
+            background-color: #f1f5ef;
+            color: #83a771
+         }
+
+         .theme-dark #chart-dashboard_card_assistance_8569398f5f5b4aa81c09ed1974c3e9a305e14aa1 {
+            background-color: #232f1d;
+            color: #83a771;
+         }
+
+         #chart-dashboard_card_assistance_8569398f5f5b4aa81c09ed1974c3e9a305e14aa1 .ct-label {
+            fill: #83a771;
+            color: #83a771;
+         }
+
+         .theme-dark #chart-dashboard_card_assistance_8569398f5f5b4aa81c09ed1974c3e9a305e14aa1 .ct-label {
+            fill: #83a771;
+            color: #83a771;
+         }
+
+         .dashboard #chart-dashboard_card_assistance_8569398f5f5b4aa81c09ed1974c3e9a305e14aa1 {
+  /*!
+ * ---------------------------------------------------------------------
+ * GLPI - Gestionnaire Libre de Parc Informatique
+ * Copyright (C) 2015-2022 Teclib' and contributors.
+ *
+ * http://glpi-project.org
+ *
+ * based on GLPI - Gestionnaire Libre de Parc Informatique
+ * Copyright (C) 2003-2014 by the INDEPNET Development Team.
+ *
+ * ---------------------------------------------------------------------
+ *
+ * LICENSE
+ *
+ * This file is part of GLPI.
+ *
+ * GLPI is free software; you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation; either version 2 of the License, or
+ * (at your option) any later version.
+ *
+ * GLPI is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with GLPI. If not, see <http://www.gnu.org/licenses/>.
+ * ---------------------------------------------------------------------
+ */
+}
+.dashboard #chart-dashboard_card_assistance_8569398f5f5b4aa81c09ed1974c3e9a305e14aa1 .ct-series-a .ct-point, .dashboard #chart-dashboard_card_assistance_8569398f5f5b4aa81c09ed1974c3e9a305e14aa1 .ct-series-a .ct-line, .dashboard #chart-dashboard_card_assistance_8569398f5f5b4aa81c09ed1974c3e9a305e14aa1 .ct-series-a .ct-bar, .dashboard #chart-dashboard_card_assistance_8569398f5f5b4aa81c09ed1974c3e9a305e14aa1 .ct-series-a .ct-slice-donut {
+  stroke: #83a771;
+}
+.dashboard #chart-dashboard_card_assistance_8569398f5f5b4aa81c09ed1974c3e9a305e14aa1 .ct-series-a .ct-bar + .ct-barlabel {
+  fill: setcolor(#83a771);
+}
+.dashboard #chart-dashboard_card_assistance_8569398f5f5b4aa81c09ed1974c3e9a305e14aa1 .ct-series-a .ct-circle {
+  fill: #83a771;
+}
+.dashboard #chart-dashboard_card_assistance_8569398f5f5b4aa81c09ed1974c3e9a305e14aa1 .ct-series-a .ct-circle + .ct-label {
+  fill: #83a771;
+}
+.dashboard #chart-dashboard_card_assistance_8569398f5f5b4aa81c09ed1974c3e9a305e14aa1 .ct-series-a .ct-slice-pie, .dashboard #chart-dashboard_card_assistance_8569398f5f5b4aa81c09ed1974c3e9a305e14aa1 .ct-series-a .ct-area, .dashboard #chart-dashboard_card_assistance_8569398f5f5b4aa81c09ed1974c3e9a305e14aa1 .ct-series-a .ct-slice-donut-solid {
+  fill: #83a771;
+  stroke: setcolor(#83a771);
+}
+.dashboard #chart-dashboard_card_assistance_8569398f5f5b4aa81c09ed1974c3e9a305e14aa1 .ct-series-0:before {
+  background-color: #83a771;
+  border-color: #83a771;
+}
+
+      </style>
+      <div class="card g-chart pie donut filter-dates filter-dates_mod filter-itilcategory filter-group_tech filter-user_tech filter-requesttype filter-location"
+           id="chart-dashboard_card_assistance_8569398f5f5b4aa81c09ed1974c3e9a305e14aa1">
+         <div class="chart ct-chart"><span class='empty-card no-data'>
+               <div>Dados não encontrados</div>
+            <span></div>
+         <span class="main-label">Principais categorias de ticket's</span>
+         <i class="main-icon ti ti-subtask"></i>
+      </div>";}

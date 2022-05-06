@@ -1,0 +1,37 @@
+1651800873
+9dd898ed3134327196bcba2e3e8f24731f2e3f84
+a:1:{s:53:"bn_count_Profile_770b35e8-68e9-4b4f-9e09-5a11058f069f";s:1070:"      <style>
+         #bn_995156276 {
+            background-color: #e0e0e0;
+            color: #7a7a7a;
+         }
+
+         #bn_995156276:hover {
+            background-color: #bababa;
+            border: 1px solid #949494;
+         }
+
+         .theme-dark #bn_995156276 {
+            background-color: #7a7a7a;
+            color: #e0e0e0;
+         }
+
+         .theme-dark #bn_995156276:hover {
+            background-color: #bababa;
+            color: #7a7a7a;
+            border: 1px solid #949494;
+         }
+      </style>
+      <a href='/glpi/front/profile.php?reset=reset'
+         id="bn_995156276"
+         class="card big-number  filter-dates filter-dates_mod"
+         title="">
+         <span class="content">            <span title="8"
+                  class="formatted-number"
+                  data-precision='0'>
+               <span class="number">8</span>
+               <span class="suffix"></span>
+            </span></span>
+         <div class="label" title="Profiles">Profiles</div>
+         <i class="main-icon ti ti-user-check"></i>
+      </a>";}

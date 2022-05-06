@@ -1,0 +1,1383 @@
+[2022-04-27 20:11:22] glpiphplog.WARNING: Test logger  
+[2022-04-27 20:11:38] glpiphplog.WARNING: Test logger  
+[2022-04-27 20:53:19] glpiphplog.WARNING: Test logger  
+[2022-04-27 20:53:24] glpiphplog.WARNING: Test logger  
+[2022-04-27 20:54:29] glpiphplog.WARNING: Test logger  
+[2022-04-27 20:56:01] glpiphplog.WARNING: Test logger  
+[2022-04-27 20:58:17] glpiphplog.WARNING: Test logger  
+[2022-04-27 22:43:30] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Computer.php:569                               glpi_autoload()
+  src\Dashboard\Provider.php:778                     Computer->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-27 22:43:31] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\Monitor.php at line 462
+  Backtrace :
+  src\Dashboard\Provider.php:778                     Monitor->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-27 22:43:31] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\NetworkEquipment.php at line 496
+  Backtrace :
+  src\Dashboard\Provider.php:778                     NetworkEquipment->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-27 22:44:32] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Computer.php:569                               glpi_autoload()
+  src\Dashboard\Provider.php:778                     Computer->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-27 22:44:32] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\Monitor.php at line 462
+  Backtrace :
+  src\Dashboard\Provider.php:778                     Monitor->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-27 22:44:32] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\NetworkEquipment.php at line 496
+  Backtrace :
+  src\Dashboard\Provider.php:778                     NetworkEquipment->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-27 22:44:40] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Computer.php:569                               glpi_autoload()
+  src\Dashboard\Provider.php:778                     Computer->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-27 22:44:40] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\Monitor.php at line 462
+  Backtrace :
+  src\Dashboard\Provider.php:778                     Monitor->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-27 22:44:40] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\NetworkEquipment.php at line 496
+  Backtrace :
+  src\Dashboard\Provider.php:778                     NetworkEquipment->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-27 22:45:54] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Computer.php:569                               glpi_autoload()
+  src\Dashboard\Provider.php:778                     Computer->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-27 22:45:55] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\Monitor.php at line 462
+  Backtrace :
+  src\Dashboard\Provider.php:778                     Monitor->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-27 22:45:55] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\NetworkEquipment.php at line 496
+  Backtrace :
+  src\Dashboard\Provider.php:778                     NetworkEquipment->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-27 23:05:47] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Computer.php:569                               glpi_autoload()
+  src\Dashboard\Provider.php:778                     Computer->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-27 23:05:47] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\Monitor.php at line 462
+  Backtrace :
+  src\Dashboard\Provider.php:778                     Monitor->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-27 23:05:47] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\NetworkEquipment.php at line 496
+  Backtrace :
+  src\Dashboard\Provider.php:778                     NetworkEquipment->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-27 23:06:04] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Computer.php:569                               glpi_autoload()
+  src\Dashboard\Provider.php:778                     Computer->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-27 23:06:04] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\Monitor.php at line 462
+  Backtrace :
+  src\Dashboard\Provider.php:778                     Monitor->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-27 23:06:04] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\NetworkEquipment.php at line 496
+  Backtrace :
+  src\Dashboard\Provider.php:778                     NetworkEquipment->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 13:32:00] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Computer.php:569                               glpi_autoload()
+  src\Dashboard\Provider.php:778                     Computer->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 13:32:00] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\Monitor.php at line 462
+  Backtrace :
+  src\Dashboard\Provider.php:778                     Monitor->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 13:32:00] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\NetworkEquipment.php at line 496
+  Backtrace :
+  src\Dashboard\Provider.php:778                     NetworkEquipment->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 13:33:54] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Computer.php:569                               glpi_autoload()
+  src\Dashboard\Provider.php:778                     Computer->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 13:33:54] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\Monitor.php at line 462
+  Backtrace :
+  src\Dashboard\Provider.php:778                     Monitor->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 13:33:54] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\NetworkEquipment.php at line 496
+  Backtrace :
+  src\Dashboard\Provider.php:778                     NetworkEquipment->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 13:34:33] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Computer.php:569                               glpi_autoload()
+  src\Dashboard\Provider.php:778                     Computer->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 13:34:33] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\Monitor.php at line 462
+  Backtrace :
+  src\Dashboard\Provider.php:778                     Monitor->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 13:34:33] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\NetworkEquipment.php at line 496
+  Backtrace :
+  src\Dashboard\Provider.php:778                     NetworkEquipment->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 13:39:38] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Computer.php:569                               glpi_autoload()
+  src\Dashboard\Provider.php:778                     Computer->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 13:39:39] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\Monitor.php at line 462
+  Backtrace :
+  src\Dashboard\Provider.php:778                     Monitor->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 13:39:39] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\NetworkEquipment.php at line 496
+  Backtrace :
+  src\Dashboard\Provider.php:778                     NetworkEquipment->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 13:39:53] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Problem.php:516                                glpi_autoload()
+  src\CommonDBTM.php:3662                            Problem->rawSearchOptions()
+  src\Search.php:7719                                CommonDBTM->searchOptions()
+  src\Search.php:7514                                Search::getOptions()
+  src\Search.php:2661                                Search::getCleanedOptions()
+  src\Search.php:2470                                Search::displayCriteria()
+  src\Search.php:94                                  Search::showGenericSearch()
+  front\problem.php:40                               Search::show()
+  
+[2022-04-29 13:39:59] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Change.php:554                                 glpi_autoload()
+  src\CommonDBTM.php:3662                            Change->rawSearchOptions()
+  src\Search.php:7719                                CommonDBTM->searchOptions()
+  src\Search.php:7514                                Search::getOptions()
+  src\Search.php:2661                                Search::getCleanedOptions()
+  src\Search.php:2470                                Search::displayCriteria()
+  src\Search.php:94                                  Search::showGenericSearch()
+  front\change.php:40                                Search::show()
+  
+[2022-04-29 13:42:22] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Entity.php:831                                 glpi_autoload()
+  src\CommonDBTM.php:3662                            Entity->rawSearchOptions()
+  src\Search.php:7719                                CommonDBTM->searchOptions()
+  src\Search.php:7514                                Search::getOptions()
+  src\Search.php:2661                                Search::getCleanedOptions()
+  src\Search.php:2470                                Search::displayCriteria()
+  src\Search.php:94                                  Search::showGenericSearch()
+  front\dropdown.common.php:50                       Search::show()
+  front\entity.php:37                                include()
+  
+[2022-04-29 13:42:26] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Project.php:1135                               glpi_autoload()
+  src\CommonDBTM.php:3662                            Project->rawSearchOptions()
+  src\Search.php:7719                                CommonDBTM->searchOptions()
+  src\Search.php:7514                                Search::getOptions()
+  src\Search.php:2661                                Search::getCleanedOptions()
+  src\Search.php:2470                                Search::displayCriteria()
+  src\Search.php:94                                  Search::showGenericSearch()
+  front\project.php:44                               Search::show()
+  
+[2022-04-29 13:42:31] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Project.php:1135                               glpi_autoload()
+  src\CommonDBTM.php:3662                            Project->rawSearchOptions()
+  src\Search.php:7719                                CommonDBTM->searchOptions()
+  src\Search.php:7514                                Search::getOptions()
+  src\Search.php:2661                                Search::getCleanedOptions()
+  src\Search.php:2470                                Search::displayCriteria()
+  src\Search.php:94                                  Search::showGenericSearch()
+  front\project.php:44                               Search::show()
+  
+[2022-04-29 13:51:33] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Computer.php:569                               glpi_autoload()
+  src\CommonDBTM.php:3662                            Computer->rawSearchOptions()
+  src\Search.php:7719                                CommonDBTM->searchOptions()
+  src\Search.php:7514                                Search::getOptions()
+  src\Search.php:2661                                Search::getCleanedOptions()
+  src\Search.php:2470                                Search::displayCriteria()
+  src\Search.php:94                                  Search::showGenericSearch()
+  front\computer.php:40                              Search::show()
+  
+[2022-04-29 13:51:36] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Monitor.php:462                                glpi_autoload()
+  src\CommonDBTM.php:3662                            Monitor->rawSearchOptions()
+  src\Search.php:7719                                CommonDBTM->searchOptions()
+  src\Search.php:7514                                Search::getOptions()
+  src\Search.php:2661                                Search::getCleanedOptions()
+  src\Search.php:2470                                Search::displayCriteria()
+  src\Search.php:94                                  Search::showGenericSearch()
+  front\monitor.php:40                               Search::show()
+  
+[2022-04-29 13:51:37] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Software.php:641                               glpi_autoload()
+  src\CommonDBTM.php:3662                            Software->rawSearchOptions()
+  src\Search.php:7719                                CommonDBTM->searchOptions()
+  src\Search.php:7514                                Search::getOptions()
+  src\Search.php:2661                                Search::getCleanedOptions()
+  src\Search.php:2470                                Search::displayCriteria()
+  src\Search.php:94                                  Search::showGenericSearch()
+  front\software.php:40                              Search::show()
+  
+[2022-04-29 13:51:38] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\NetworkEquipment.php:496                       glpi_autoload()
+  src\CommonDBTM.php:3662                            NetworkEquipment->rawSearchOptions()
+  src\Search.php:7719                                CommonDBTM->searchOptions()
+  src\Search.php:7514                                Search::getOptions()
+  src\Search.php:2661                                Search::getCleanedOptions()
+  src\Search.php:2470                                Search::displayCriteria()
+  src\Search.php:94                                  Search::showGenericSearch()
+  front\networkequipment.php:40                      Search::show()
+  
+[2022-04-29 13:51:39] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Peripheral.php:383                             glpi_autoload()
+  src\CommonDBTM.php:3662                            Peripheral->rawSearchOptions()
+  src\Search.php:7719                                CommonDBTM->searchOptions()
+  src\Search.php:7514                                Search::getOptions()
+  src\Search.php:2661                                Search::getCleanedOptions()
+  src\Search.php:2470                                Search::displayCriteria()
+  src\Search.php:94                                  Search::showGenericSearch()
+  front\peripheral.php:40                            Search::show()
+  
+[2022-04-29 13:51:40] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\CartridgeItem.php:363                          glpi_autoload()
+  src\CommonDBTM.php:3662                            CartridgeItem->rawSearchOptions()
+  src\Search.php:7719                                CommonDBTM->searchOptions()
+  src\Search.php:7514                                Search::getOptions()
+  src\Search.php:2661                                Search::getCleanedOptions()
+  src\Search.php:2470                                Search::displayCriteria()
+  src\Search.php:94                                  Search::showGenericSearch()
+  front\cartridgeitem.php:40                         Search::show()
+  
+[2022-04-29 13:51:40] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Phone.php:463                                  glpi_autoload()
+  src\CommonDBTM.php:3662                            Phone->rawSearchOptions()
+  src\Search.php:7719                                CommonDBTM->searchOptions()
+  src\Search.php:7514                                Search::getOptions()
+  src\Search.php:2661                                Search::getCleanedOptions()
+  src\Search.php:2470                                Search::displayCriteria()
+  src\Search.php:94                                  Search::showGenericSearch()
+  front\phone.php:40                                 Search::show()
+  
+[2022-04-29 13:51:41] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Rack.php:289                                   glpi_autoload()
+  src\CommonDBTM.php:3662                            Rack->rawSearchOptions()
+  src\Search.php:7719                                CommonDBTM->searchOptions()
+  src\Search.php:7514                                Search::getOptions()
+  src\Search.php:2661                                Search::getCleanedOptions()
+  src\Search.php:2470                                Search::displayCriteria()
+  src\Search.php:94                                  Search::showGenericSearch()
+  front\rack.php:40                                  Search::show()
+  
+[2022-04-29 13:51:42] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Enclosure.php:223                              glpi_autoload()
+  src\CommonDBTM.php:3662                            Enclosure->rawSearchOptions()
+  src\Search.php:7719                                CommonDBTM->searchOptions()
+  src\Search.php:7514                                Search::getOptions()
+  src\Search.php:2661                                Search::getCleanedOptions()
+  src\Search.php:2470                                Search::displayCriteria()
+  src\Search.php:94                                  Search::showGenericSearch()
+  front\enclosure.php:40                             Search::show()
+  
+[2022-04-29 13:51:44] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Computer.php:569                               glpi_autoload()
+  src\CommonDBTM.php:3662                            Computer->rawSearchOptions()
+  src\Search.php:7719                                CommonDBTM->searchOptions()
+  src\Search.php:7904                                Search::getOptions()
+  src\Search.php:3132                                Search::getActionsFor()
+  src\Search.php:2824                                Search::displaySearchoption()
+  src\Search.php:2470                                Search::displayCriteria()
+  src\Search.php:94                                  Search::showGenericSearch()
+  front\allassets.php:46                             Search::show()
+  
+[2022-04-29 13:52:19] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Computer.php:569                               glpi_autoload()
+  src\Dashboard\Provider.php:778                     Computer->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 13:52:20] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\Monitor.php at line 462
+  Backtrace :
+  src\Dashboard\Provider.php:778                     Monitor->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 13:52:20] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\NetworkEquipment.php at line 496
+  Backtrace :
+  src\Dashboard\Provider.php:778                     NetworkEquipment->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 13:58:13] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Computer.php:569                               glpi_autoload()
+  src\Dashboard\Provider.php:778                     Computer->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 13:58:14] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\Monitor.php at line 462
+  Backtrace :
+  src\Dashboard\Provider.php:778                     Monitor->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 13:58:14] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\NetworkEquipment.php at line 496
+  Backtrace :
+  src\Dashboard\Provider.php:778                     NetworkEquipment->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 13:59:13] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Computer.php:569                               glpi_autoload()
+  src\Dashboard\Provider.php:778                     Computer->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 13:59:14] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\Monitor.php at line 462
+  Backtrace :
+  src\Dashboard\Provider.php:778                     Monitor->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 13:59:14] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\NetworkEquipment.php at line 496
+  Backtrace :
+  src\Dashboard\Provider.php:778                     NetworkEquipment->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 14:00:54] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Computer.php:569                               glpi_autoload()
+  src\Dashboard\Provider.php:778                     Computer->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 14:00:54] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\Monitor.php at line 462
+  Backtrace :
+  src\Dashboard\Provider.php:778                     Monitor->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 14:00:54] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\NetworkEquipment.php at line 496
+  Backtrace :
+  src\Dashboard\Provider.php:778                     NetworkEquipment->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 14:01:59] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Computer.php:569                               glpi_autoload()
+  src\Dashboard\Provider.php:778                     Computer->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 14:01:59] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\Monitor.php at line 462
+  Backtrace :
+  src\Dashboard\Provider.php:778                     Monitor->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 14:01:59] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\NetworkEquipment.php at line 496
+  Backtrace :
+  src\Dashboard\Provider.php:778                     NetworkEquipment->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 14:03:47] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Computer.php:569                               glpi_autoload()
+  src\Dashboard\Provider.php:778                     Computer->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 14:03:47] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\Monitor.php at line 462
+  Backtrace :
+  src\Dashboard\Provider.php:778                     Monitor->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 14:03:47] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\NetworkEquipment.php at line 496
+  Backtrace :
+  src\Dashboard\Provider.php:778                     NetworkEquipment->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 14:07:22] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Computer.php:569                               glpi_autoload()
+  src\Dashboard\Provider.php:778                     Computer->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 14:07:22] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\Monitor.php at line 462
+  Backtrace :
+  src\Dashboard\Provider.php:778                     Monitor->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 14:07:22] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\NetworkEquipment.php at line 496
+  Backtrace :
+  src\Dashboard\Provider.php:778                     NetworkEquipment->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 14:08:17] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Computer.php:569                               glpi_autoload()
+  src\Dashboard\Provider.php:778                     Computer->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 14:08:18] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\Monitor.php at line 462
+  Backtrace :
+  src\Dashboard\Provider.php:778                     Monitor->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 14:08:18] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\NetworkEquipment.php at line 496
+  Backtrace :
+  src\Dashboard\Provider.php:778                     NetworkEquipment->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 14:08:54] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Computer.php:569                               glpi_autoload()
+  src\Dashboard\Provider.php:778                     Computer->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 14:08:54] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\Monitor.php at line 462
+  Backtrace :
+  src\Dashboard\Provider.php:778                     Monitor->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 14:08:54] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\NetworkEquipment.php at line 496
+  Backtrace :
+  src\Dashboard\Provider.php:778                     NetworkEquipment->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 14:09:03] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Computer.php:569                               glpi_autoload()
+  src\Dashboard\Provider.php:778                     Computer->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 14:09:03] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\Computer.php at line 569
+  Backtrace :
+  src\Dashboard\Provider.php:778                     Computer->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 14:09:03] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\Computer.php at line 569
+  Backtrace :
+  src\Dashboard\Provider.php:778                     Computer->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 14:09:03] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\NetworkEquipment.php at line 496
+  Backtrace :
+  src\Dashboard\Provider.php:778                     NetworkEquipment->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 14:09:03] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\Monitor.php at line 462
+  Backtrace :
+  src\Dashboard\Provider.php:778                     Monitor->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 14:09:20] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Computer.php:569                               glpi_autoload()
+  src\Dashboard\Provider.php:778                     Computer->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 14:09:20] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\Monitor.php at line 462
+  Backtrace :
+  src\Dashboard\Provider.php:778                     Monitor->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 14:09:20] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\NetworkEquipment.php at line 496
+  Backtrace :
+  src\Dashboard\Provider.php:778                     NetworkEquipment->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 14:24:31] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Computer.php:569                               glpi_autoload()
+  src\Dashboard\Provider.php:778                     Computer->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 14:24:31] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\Monitor.php at line 462
+  Backtrace :
+  src\Dashboard\Provider.php:778                     Monitor->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 14:24:31] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\NetworkEquipment.php at line 496
+  Backtrace :
+  src\Dashboard\Provider.php:778                     NetworkEquipment->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 14:28:33] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Computer.php:569                               glpi_autoload()
+  src\Dashboard\Provider.php:778                     Computer->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 14:28:33] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\Monitor.php at line 462
+  Backtrace :
+  src\Dashboard\Provider.php:778                     Monitor->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 14:28:33] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\NetworkEquipment.php at line 496
+  Backtrace :
+  src\Dashboard\Provider.php:778                     NetworkEquipment->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 14:28:55] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Computer.php:569                               glpi_autoload()
+  src\Dashboard\Provider.php:778                     Computer->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 14:28:55] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\Monitor.php at line 462
+  Backtrace :
+  src\Dashboard\Provider.php:778                     Monitor->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 14:28:55] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\NetworkEquipment.php at line 496
+  Backtrace :
+  src\Dashboard\Provider.php:778                     NetworkEquipment->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 14:32:22] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Computer.php:569                               glpi_autoload()
+  src\Dashboard\Provider.php:778                     Computer->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 14:32:23] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\Monitor.php at line 462
+  Backtrace :
+  src\Dashboard\Provider.php:778                     Monitor->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 14:32:23] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\NetworkEquipment.php at line 496
+  Backtrace :
+  src\Dashboard\Provider.php:778                     NetworkEquipment->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 14:34:18] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Computer.php:569                               glpi_autoload()
+  src\Dashboard\Provider.php:778                     Computer->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 14:34:19] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\Monitor.php at line 462
+  Backtrace :
+  src\Dashboard\Provider.php:778                     Monitor->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 14:34:19] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\NetworkEquipment.php at line 496
+  Backtrace :
+  src\Dashboard\Provider.php:778                     NetworkEquipment->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 15:07:28] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Computer.php:569                               glpi_autoload()
+  src\Dashboard\Provider.php:778                     Computer->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 15:07:28] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\Monitor.php at line 462
+  Backtrace :
+  src\Dashboard\Provider.php:778                     Monitor->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 15:07:28] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\NetworkEquipment.php at line 496
+  Backtrace :
+  src\Dashboard\Provider.php:778                     NetworkEquipment->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 15:37:28] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Computer.php:569                               glpi_autoload()
+  src\Dashboard\Provider.php:778                     Computer->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 15:37:28] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\Monitor.php at line 462
+  Backtrace :
+  src\Dashboard\Provider.php:778                     Monitor->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 15:37:28] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\NetworkEquipment.php at line 496
+  Backtrace :
+  src\Dashboard\Provider.php:778                     NetworkEquipment->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 16:07:28] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Computer.php:569                               glpi_autoload()
+  src\Dashboard\Provider.php:778                     Computer->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 16:07:28] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\Monitor.php at line 462
+  Backtrace :
+  src\Dashboard\Provider.php:778                     Monitor->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 16:07:28] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\NetworkEquipment.php at line 496
+  Backtrace :
+  src\Dashboard\Provider.php:778                     NetworkEquipment->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 22:47:12] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Computer.php:569                               glpi_autoload()
+  src\Dashboard\Provider.php:778                     Computer->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 22:47:12] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\Monitor.php at line 462
+  Backtrace :
+  src\Dashboard\Provider.php:778                     Monitor->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-04-29 22:47:12] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\NetworkEquipment.php at line 496
+  Backtrace :
+  src\Dashboard\Provider.php:778                     NetworkEquipment->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-05-06 02:56:07] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Computer.php:569                               glpi_autoload()
+  src\Dashboard\Provider.php:778                     Computer->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-05-06 02:56:07] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\Monitor.php at line 462
+  Backtrace :
+  src\Dashboard\Provider.php:778                     Monitor->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-05-06 02:56:07] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\NetworkEquipment.php at line 496
+  Backtrace :
+  src\Dashboard\Provider.php:778                     NetworkEquipment->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-05-06 02:57:14] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Computer.php:569                               glpi_autoload()
+  src\Dashboard\Provider.php:778                     Computer->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-05-06 02:57:14] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\Monitor.php at line 462
+  Backtrace :
+  src\Dashboard\Provider.php:778                     Monitor->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-05-06 02:57:14] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\NetworkEquipment.php at line 496
+  Backtrace :
+  src\Dashboard\Provider.php:778                     NetworkEquipment->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-05-06 02:57:35] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Computer.php:569                               glpi_autoload()
+  src\CommonDBTM.php:3662                            Computer->rawSearchOptions()
+  src\Search.php:7719                                CommonDBTM->searchOptions()
+  src\Search.php:7514                                Search::getOptions()
+  src\Search.php:2661                                Search::getCleanedOptions()
+  src\Search.php:2470                                Search::displayCriteria()
+  src\Search.php:94                                  Search::showGenericSearch()
+  front\computer.php:40                              Search::show()
+  
+[2022-05-06 03:03:36] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Computer.php:569                               glpi_autoload()
+  src\Dashboard\Provider.php:778                     Computer->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-05-06 03:03:36] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\Monitor.php at line 462
+  Backtrace :
+  src\Dashboard\Provider.php:778                     Monitor->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-05-06 03:03:36] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\NetworkEquipment.php at line 496
+  Backtrace :
+  src\Dashboard\Provider.php:778                     NetworkEquipment->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-05-06 03:03:44] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Computer.php:569                               glpi_autoload()
+  src\Dashboard\Provider.php:778                     Computer->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-05-06 03:03:44] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\Computer.php at line 569
+  Backtrace :
+  src\Dashboard\Provider.php:778                     Computer->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-05-06 03:03:44] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\Computer.php at line 569
+  Backtrace :
+  src\Dashboard\Provider.php:778                     Computer->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-05-06 03:03:44] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\NetworkEquipment.php at line 496
+  Backtrace :
+  src\Dashboard\Provider.php:778                     NetworkEquipment->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-05-06 03:03:44] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\Monitor.php at line 462
+  Backtrace :
+  src\Dashboard\Provider.php:778                     Monitor->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-05-06 03:03:50] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Computer.php:569                               glpi_autoload()
+  src\CommonDBTM.php:3662                            Computer->rawSearchOptions()
+  src\Search.php:7719                                CommonDBTM->searchOptions()
+  src\Search.php:7904                                Search::getOptions()
+  src\Search.php:3132                                Search::getActionsFor()
+  src\Search.php:2824                                Search::displaySearchoption()
+  src\Search.php:2470                                Search::displayCriteria()
+  src\Search.php:94                                  Search::showGenericSearch()
+  front\allassets.php:46                             Search::show()
+  
+[2022-05-06 03:04:07] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\SoftwareLicense.php:548                        glpi_autoload()
+  src\CommonDBTM.php:3662                            SoftwareLicense->rawSearchOptions()
+  src\Search.php:7719                                CommonDBTM->searchOptions()
+  src\Search.php:7514                                Search::getOptions()
+  src\Search.php:2661                                Search::getCleanedOptions()
+  src\Search.php:2470                                Search::displayCriteria()
+  src\Search.php:94                                  Search::showGenericSearch()
+  front\softwarelicense.php:45                       Search::show()
+  
+[2022-05-06 03:04:12] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Computer.php:569                               glpi_autoload()
+  src\Dashboard\Provider.php:778                     Computer->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-05-06 03:04:12] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\Monitor.php at line 462
+  Backtrace :
+  src\Dashboard\Provider.php:778                     Monitor->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-05-06 03:04:12] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\NetworkEquipment.php at line 496
+  Backtrace :
+  src\Dashboard\Provider.php:778                     NetworkEquipment->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-05-06 03:04:34] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Computer.php:569                               glpi_autoload()
+  src\CommonDBTM.php:3662                            Computer->rawSearchOptions()
+  src\Search.php:7719                                CommonDBTM->searchOptions()
+  src\Search.php:7514                                Search::getOptions()
+  src\Search.php:2661                                Search::getCleanedOptions()
+  src\Search.php:2470                                Search::displayCriteria()
+  src\Search.php:94                                  Search::showGenericSearch()
+  front\computer.php:40                              Search::show()
+  
+[2022-05-06 03:04:44] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Computer.php:569                               glpi_autoload()
+  src\Dashboard\Provider.php:778                     Computer->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-05-06 03:04:44] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\Monitor.php at line 462
+  Backtrace :
+  src\Dashboard\Provider.php:778                     Monitor->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-05-06 03:04:44] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\NetworkEquipment.php at line 496
+  Backtrace :
+  src\Dashboard\Provider.php:778                     NetworkEquipment->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-05-06 03:05:55] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Software.php:641                               glpi_autoload()
+  src\CommonDBTM.php:3662                            Software->rawSearchOptions()
+  src\Search.php:7719                                CommonDBTM->searchOptions()
+  src\Search.php:7514                                Search::getOptions()
+  src\Search.php:2661                                Search::getCleanedOptions()
+  src\Search.php:2470                                Search::displayCriteria()
+  src\Search.php:94                                  Search::showGenericSearch()
+  front\software.php:40                              Search::show()
+  
+[2022-05-06 03:05:59] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Peripheral.php:383                             glpi_autoload()
+  src\CommonDBTM.php:3662                            Peripheral->rawSearchOptions()
+  src\Search.php:7719                                CommonDBTM->searchOptions()
+  src\Search.php:7514                                Search::getOptions()
+  src\Search.php:2661                                Search::getCleanedOptions()
+  src\Search.php:2470                                Search::displayCriteria()
+  src\Search.php:94                                  Search::showGenericSearch()
+  front\peripheral.php:40                            Search::show()
+  
+[2022-05-06 03:06:01] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\CartridgeItem.php:363                          glpi_autoload()
+  src\CommonDBTM.php:3662                            CartridgeItem->rawSearchOptions()
+  src\Search.php:7719                                CommonDBTM->searchOptions()
+  src\Search.php:7514                                Search::getOptions()
+  src\Search.php:2661                                Search::getCleanedOptions()
+  src\Search.php:2470                                Search::displayCriteria()
+  src\Search.php:94                                  Search::showGenericSearch()
+  front\cartridgeitem.php:40                         Search::show()
+  
+[2022-05-06 03:06:10] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Computer.php:569                               glpi_autoload()
+  src\Dashboard\Provider.php:778                     Computer->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-05-06 03:06:10] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\Monitor.php at line 462
+  Backtrace :
+  src\Dashboard\Provider.php:778                     Monitor->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-05-06 03:06:10] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\NetworkEquipment.php at line 496
+  Backtrace :
+  src\Dashboard\Provider.php:778                     NetworkEquipment->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-05-06 03:20:52] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Computer.php:569                               glpi_autoload()
+  src\Dashboard\Provider.php:778                     Computer->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-05-06 03:20:52] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\Monitor.php at line 462
+  Backtrace :
+  src\Dashboard\Provider.php:778                     Monitor->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-05-06 03:20:52] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\NetworkEquipment.php at line 496
+  Backtrace :
+  src\Dashboard\Provider.php:778                     NetworkEquipment->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-05-06 03:24:08] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Computer.php:569                               glpi_autoload()
+  src\Dashboard\Provider.php:778                     Computer->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-05-06 03:24:08] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\Monitor.php at line 462
+  Backtrace :
+  src\Dashboard\Provider.php:778                     Monitor->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-05-06 03:24:08] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\NetworkEquipment.php at line 496
+  Backtrace :
+  src\Dashboard\Provider.php:778                     NetworkEquipment->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-05-06 03:24:09] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Computer.php:569                               glpi_autoload()
+  src\Dashboard\Provider.php:778                     Computer->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-05-06 03:24:09] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\Monitor.php at line 462
+  Backtrace :
+  src\Dashboard\Provider.php:778                     Monitor->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-05-06 03:24:09] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\NetworkEquipment.php at line 496
+  Backtrace :
+  src\Dashboard\Provider.php:778                     NetworkEquipment->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-05-06 03:24:09] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\Computer.php at line 569
+  Backtrace :
+  src\Dashboard\Provider.php:778                     Computer->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-05-06 03:24:09] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\Monitor.php at line 462
+  Backtrace :
+  src\Dashboard\Provider.php:778                     Monitor->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-05-06 03:24:09] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\NetworkEquipment.php at line 496
+  Backtrace :
+  src\Dashboard\Provider.php:778                     NetworkEquipment->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-05-06 03:24:42] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Computer.php:569                               glpi_autoload()
+  src\Dashboard\Provider.php:778                     Computer->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-05-06 03:24:42] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\Monitor.php at line 462
+  Backtrace :
+  src\Dashboard\Provider.php:778                     Monitor->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-05-06 03:24:42] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\NetworkEquipment.php at line 496
+  Backtrace :
+  src\Dashboard\Provider.php:778                     NetworkEquipment->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-05-06 03:31:32] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Computer.php:569                               glpi_autoload()
+  src\Dashboard\Provider.php:778                     Computer->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-05-06 03:31:33] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\Monitor.php at line 462
+  Backtrace :
+  src\Dashboard\Provider.php:778                     Monitor->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-05-06 03:31:33] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\NetworkEquipment.php at line 496
+  Backtrace :
+  src\Dashboard\Provider.php:778                     NetworkEquipment->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-05-06 03:33:53] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected double-quoted string " title=", expecting "," or ";" in C:\xampp\htdocs\glpi\src\Notepad.php at line 337
+  Backtrace :
+  src\Computer.php:569                               glpi_autoload()
+  src\Dashboard\Provider.php:778                     Computer->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-05-06 03:33:53] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\Monitor.php at line 462
+  Backtrace :
+  src\Dashboard\Provider.php:778                     Monitor->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
+[2022-05-06 03:33:53] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Class "Notepad" not found in C:\xampp\htdocs\glpi\src\NetworkEquipment.php at line 496
+  Backtrace :
+  src\Dashboard\Provider.php:778                     NetworkEquipment->rawSearchOptions()
+  src\Dashboard\Provider.php:184                     Glpi\Dashboard\Provider::nbItemByFk()
+  :                                                  Glpi\Dashboard\Provider::__callStatic()
+  src\Dashboard\Grid.php:945                         call_user_func_array()
+  ajax\dashboard.php:137                             Glpi\Dashboard\Grid->getCardHtml()
+  
